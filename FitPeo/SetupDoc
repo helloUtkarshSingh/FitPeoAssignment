@@ -1,0 +1,23 @@
+This document outlines the steps to set up, configure, and execute the Selenium script provided in the project
+
+1. Prerequisites
+Java Development Kit (JDK):
+
+Install JDK (version 8 or later).
+Verify the installation by running java -version in your terminal.
+Maven:
+
+Install Apache Maven for dependency management.
+Verify installation using mvn -version.
+IDE:
+
+Install an Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse.
+Browser Drivers:
+
+Drivers for Chrome, Firefox, and Edge are automatically managed using WebDriverManager.
+Supported Browsers:
+
+Ensure the browsers (Chrome, Firefox, Edge) are installed and updated
+
+Dependency Management
+The project uses Maven for dependency management. Ensure the following Java, testNg and webdriverManger dependencies are included in your pom.xml file:

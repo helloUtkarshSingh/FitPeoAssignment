@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-24T10:31:10 IST" name="Default suite" finished-at="2024-11-24T10:31:23 IST" duration-ms="13460">
+    <groups>
+    </groups>
+    <test started-at="2024-11-24T10:31:10 IST" name="Default test" finished-at="2024-11-24T10:31:23 IST" duration-ms="13460">
+      <class name="TestClass.End2EndFlow">
+        <test-method is-config="true" signature="Open_Web_Browser_and_Navigate_To_URL()[pri:0, instance:TestClass.End2EndFlow@1f2586d6]" started-at="2024-11-24T10:31:03 IST" name="Open_Web_Browser_and_Navigate_To_URL" finished-at="2024-11-24T10:31:10 IST" duration-ms="6278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_Web_Browser_and_Navigate_To_URL -->
+        <test-method signature="Navigate_To_Revenue_Calculator_Page()[pri:1, instance:TestClass.End2EndFlow@1f2586d6]" started-at="2024-11-24T10:31:10 IST" name="Navigate_To_Revenue_Calculator_Page" finished-at="2024-11-24T10:31:13 IST" duration-ms="3124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate_To_Revenue_Calculator_Page -->
+        <test-method signature="Scroll_Untill_Revenue_Calculator_Slider()[pri:2, instance:TestClass.End2EndFlow@1f2586d6]" started-at="2024-11-24T10:31:13 IST" name="Scroll_Untill_Revenue_Calculator_Slider" finished-at="2024-11-24T10:31:13 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scroll_Untill_Revenue_Calculator_Slider -->
+        <test-method signature="Adjust_N_Validated_slider_to_value()[pri:3, instance:TestClass.End2EndFlow@1f2586d6]" started-at="2024-11-24T10:31:13 IST" name="Adjust_N_Validated_slider_to_value" finished-at="2024-11-24T10:31:14 IST" duration-ms="571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adjust_N_Validated_slider_to_value -->
+        <test-method signature="Enter_N_Validated_value_TextBox()[pri:4, instance:TestClass.End2EndFlow@1f2586d6]" started-at="2024-11-24T10:31:14 IST" name="Enter_N_Validated_value_TextBox" finished-at="2024-11-24T10:31:14 IST" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enter_N_Validated_value_TextBox -->
+        <test-method signature="Select_CPT_Codes_N_Validate()[pri:5, instance:TestClass.End2EndFlow@1f2586d6]" started-at="2024-11-24T10:31:14 IST" name="Select_CPT_Codes_N_Validate" finished-at="2024-11-24T10:31:23 IST" duration-ms="9119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_CPT_Codes_N_Validate -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestClass.End2EndFlow@1f2586d6]" started-at="2024-11-24T10:31:23 IST" name="CloseBrowser" finished-at="2024-11-24T10:31:23 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestClass.End2EndFlow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
